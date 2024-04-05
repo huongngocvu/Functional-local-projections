@@ -7,3 +7,5 @@ The paper can be found at: https://onlinelibrary.wiley.com/doi/10.1111/1475-4932
 Run master_FunctionalLP.m to replicate all figures in the paper.
 
 Note: Dataset from Refinitiv is not provided.
+
+Some of the code is based on the replication package of Inoue, A. and Rossi, B. (2021), ‘A new approachto measuring economic policy shocks, with anapplication to conventional and unconventionalmonetary policy’,Quantitative Economics,12,1085–1138.
